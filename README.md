@@ -8,6 +8,7 @@ cd to folder;
 run >go run main.go;
 this will establish server on port:8080;
 use link: https://hls-js-dev.netlify.app/demo/?ref=hackernoon.com to test HLS streaming over the server (make sure to change format to HLS)
+link to server to enter in demo test: http://localhost:8080/outputlist.m3u8
 
 
 Next Steps: 
